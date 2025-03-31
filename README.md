@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipendra Shrestha</h1>
 <h3 align="center">A passionate tech enthusiast from Nepal, eager to learn and grow in the field of python, automation, cloud computing, and CI/CD pipelines.</h3>
 
-<img align="right" alt="coding" width="400" src="https://pro2-bar-s3-cdn-cf1.myportfolio.com/97b1d4bc028e3890ce75267deb159e95/24e71a4a26b5d319d6ac79ee_rw_600.gif?h=4c5ec98e37c4fea0b6776ef182152b43">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRaffael-Eloi&psig=AOvVaw0P2RjDuQthiXbvlcrmP1ag&ust=1743542076259000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjdg8WetYwDFQAAAAAdAAAAABAW">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipendradls&label=Profile%20views&color=0e75b6&style=flat" alt="dipendradls" /> </p>
 
