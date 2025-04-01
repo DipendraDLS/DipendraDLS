@@ -30,7 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipendradls&show_icons=true&locale=en" alt="dipendradls" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipendradls&" alt="dipendradls" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipendradls&show_icons=true&locale=en" alt="dipendradls" /></p>
+
 <div align="center">
   <img src="https://github.com/DipendraDLS/DipendraDLS/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
