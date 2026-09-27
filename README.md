@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipendradls&label=Profile%20views&color=0e75b6&style=flat" alt="dipendradls" /> </p>
 
-- 🌱 I’m currently learning **kubernetes, Power BI, Docker, CI/CD, AWS Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DipendraDLS?tab=repositories](https://github.com/DipendraDLS?tab=repositories)
 
